@@ -623,10 +623,10 @@ const Header = () => {
                   </p>
                   <a
                     className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
-                    href="https://vite-project001.netlify.app/"
+                    href="https://monthly-project.vercel.app/"
                     target="blank"
                   >
-                    https://vite-project001.netlify.app/
+                    https://monthly-project.vercel.app/
                   </a>
                 </div>
               </div>
