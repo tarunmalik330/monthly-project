@@ -99,7 +99,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/brandname"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/brandname
                     </a>
@@ -108,7 +108,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://brandname-001.netlify.app/"
                     target="blank"
                   >
@@ -133,7 +133,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/buildproject"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/buildproject
                     </a>
@@ -142,7 +142,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://construction-building001.netlify.app/"
                     target="blank"
                   >
@@ -167,7 +167,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/company"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/company
                     </a>
@@ -176,7 +176,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://digital-product0001.netlify.app/"
                     target="blank"
                   >
@@ -201,7 +201,7 @@ const Header = () => {
                     <a
                       href="https://github.com/khushi303/koiner"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/khushi303/koiner
                     </a>
@@ -210,7 +210,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://koiner-001.web.app/"
                     target="blank"
                   >
@@ -235,7 +235,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/lemonwares"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/lemonwares
                     </a>
@@ -244,7 +244,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://app.netlify.com/sites/lemonwares-001"
                     target="blank"
                   >
@@ -269,7 +269,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/marketing-growth"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/marketing-growth
                     </a>
@@ -278,7 +278,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://app.netlify.com/sites/lemonwares-001"
                     target="blank"
                   >
@@ -305,7 +305,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/dinolfg"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/dinolfg
                     </a>
@@ -314,7 +314,7 @@ const Header = () => {
                     Live Link
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://dinolfg-01.netlify.app/"
                     target="blank"
                   >
@@ -339,7 +339,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/Furniture"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/Furniture
                     </a>
@@ -348,7 +348,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://furniture-01.netlify.app/"
                     target="blank"
                   >
@@ -373,7 +373,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/netnow"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/netnow
                     </a>
@@ -382,7 +382,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://netnow.netlify.app/"
                     target="blank"
                   >
@@ -407,7 +407,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/nex-ai"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/nex-ai
                     </a>
@@ -416,7 +416,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://naxai-01.netlify.app/"
                     target="blank"
                   >
@@ -443,7 +443,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/cloopp"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/cloopp
                     </a>
@@ -452,7 +452,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://cloopp-pi.vercel.app/"
                     target="blank"
                   >
@@ -477,7 +477,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/for-test"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/for-test
                     </a>
@@ -486,7 +486,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://marc-joachim-hubrich01.netlify.app/"
                     target="blank"
                   >
@@ -511,7 +511,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/marchpractice"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/marchpractice
                     </a>
@@ -520,7 +520,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://marchpractice.vercel.app/"
                     target="blank"
                   >
@@ -545,7 +545,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/my-web"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/my-web
                     </a>
@@ -554,7 +554,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://nextjs-rust-three-74.vercel.app/"
                     target="blank"
                   >
@@ -579,7 +579,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/myviteproject"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/myviteproject
                     </a>
@@ -588,7 +588,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://vite-project001.netlify.app/"
                     target="blank"
                   >
@@ -613,7 +613,7 @@ const Header = () => {
                     <a
                       href="https://github.com/tarunmalik330/monthly-project"
                       target="blank"
-                      className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
                       https://github.com/tarunmalik330/monthly-project
                     </a>
@@ -622,7 +622,7 @@ const Header = () => {
                     Live Link:
                   </p>
                   <a
-                    className="text-[20px] font-normal text-lime-950 hover:text-sky-500 transition-all ease-linear duration-500"
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     href="https://monthly-project.vercel.app/"
                     target="blank"
                   >
