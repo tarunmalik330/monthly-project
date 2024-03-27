@@ -282,10 +282,10 @@ const Header = () => {
                   </p>
                   <a
                     className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
-                    href="https://app.netlify.com/sites/lemonwares-001"
+                    href="https://marketing-growth.netlify.app/"
                     target="blank"
                   >
-                    https://app.netlify.com/sites/lemonwares-001
+                    https://marketing-growth.netlify.app/
                   </a>
                 </div>
               </div>
