@@ -22,6 +22,9 @@ const Header = () => {
     <>
       <div className="bg-slate-100 min-h-screen">
         <div className="container mx-auto xl:max-w-[1164px] xl:px-3 px-6">
+          <h1 className="text-center text-6xl font-medium text-lime-600 py-5">
+            Monthly Projects
+          </h1>
           <ul className="flex items-center justify-center mb-12 gap-[50px] pt-5">
             <li>
               <a
