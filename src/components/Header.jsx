@@ -456,10 +456,10 @@ const Header = () => {
                   </p>
                   <a
                     className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
-                    href="https://cloopp-pi.vercel.app/"
+                    href="https://cloopp-2tan.vercel.app/"
                     target="blank"
                   >
-                    https://cloopp-pi.vercel.app/
+                    https://cloopp-2tan.vercel.app/
                   </a>
                 </div>
               </div>
