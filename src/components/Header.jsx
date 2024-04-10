@@ -651,10 +651,11 @@ const Header = () => {
                       GitHub Link :
                     </p>
                     <a
-                      href="https://github.com/tarunmalik330/monthly-project"
+                      href="https://github.com/tarunmalik330/nobalmind"
                       target="blank"
                       className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
+                      https://github.com/tarunmalik330/nobalmind
                     </a>
                   </div>
                   <p className="text-lime-950 text-3xl font-medium pb-2">
