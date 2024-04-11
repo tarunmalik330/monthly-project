@@ -673,7 +673,7 @@ const Header = () => {
               </div>
               <div className="flex flex-row justify-between items-center pb-[48px]">
                 <div className="w-[35%] flex item-start gap-[40px]">
-                  <p className="text-center text-3xl font-medium">1.</p>
+                  <p className="text-center text-3xl font-medium">2.</p>
                   <img
                     src={mappractice}
                     alt="mappractice"
