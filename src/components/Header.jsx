@@ -17,6 +17,7 @@ import viteImg from "../assets/images/png/viteImg.png";
 import projectList from "../assets/images/png/projectList.png";
 import nobalmind from "../assets/images/png/nobal-mind.png";
 import mappractice from "../assets/images/png/mappractice.png";
+import mainscroll from "../assets/images/png/8figimg.png";
 
 const Header = () => {
   const [opentab, setOpentab] = useState(1);
@@ -736,6 +737,40 @@ const Header = () => {
                     target="blank"
                   >
                     https://marchpractice.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">4.</p>
+                  <img
+                    src={mainscroll}
+                    alt="mainscroll"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/8fig"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/8fig
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://8fig-cyan.vercel.app//"
+                    target="blank"
+                  >
+                    https://8fig-cyan.vercel.app/
                   </a>
                 </div>
               </div>
