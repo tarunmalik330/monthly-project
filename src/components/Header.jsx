@@ -19,6 +19,10 @@ import nobalmind from "../assets/images/png/nobal-mind.png";
 import mappractice from "../assets/images/png/mappractice.png";
 import mainscroll from "../assets/images/png/8figimg.png";
 import fluff from "../assets/images/png/fluffimg.png";
+import aietf from "../assets/images/png/ai-etf.png";
+import aistocks from "../assets/images/png/ai-stocks.png";
+import aeiral from "../assets/images/png/aerial.png";
+import zenpeak from "../assets/images/png/zen-peak.png";
 
 const Header = () => {
   const [opentab, setOpentab] = useState(1);
@@ -84,6 +88,20 @@ const Header = () => {
                 } text-[30px] font-normal text-black`}
               >
                 April
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+                onClick={(e) => {
+                  e.preventDefault();
+                  setOpentab(5);
+                }}
+                className={`${
+                  opentab === 5 ? "text-lime-600" : ""
+                } text-[30px] font-normal text-black`}
+              >
+                May
               </a>
             </li>
           </ul>
@@ -806,6 +824,144 @@ const Header = () => {
                     target="blank"
                   >
                     https://fluff-nine.vercel.app/
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className={opentab === 5 ? "block" : "hidden"}>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">1.</p>
+                  <img
+                    src={aietf}
+                    alt="aietf"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/kulvinder02/ai-etf.git"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/kulvinder02/ai-etf.git
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://ai-etf-55720.web.app/"
+                    target="blank"
+                  >
+                    https://ai-etf-55720.web.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">2.</p>
+                  <img
+                    src={aistocks}
+                    alt="aistocks"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/ai-stocks"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/ai-stocks
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://ai-stocks-6c216.web.app/"
+                    target="blank"
+                  >
+                    https://ai-stocks-6c216.web.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">3.</p>
+                  <img
+                    src={aeiral}
+                    alt="aeiral"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/aerial"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/aerial
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://aerial-six.vercel.app/"
+                    target="blank"
+                  >
+                    https://aerial-six.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">4.</p>
+                  <img
+                    src={zenpeak}
+                    alt="zenpeak"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/Radial-code/zen-peak"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/Radial-code/zen-peak
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://zen-peak.vercel.app/"
+                    target="blank"
+                  >
+                    https://zen-peak.vercel.app/
                   </a>
                 </div>
               </div>
