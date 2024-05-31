@@ -23,6 +23,8 @@ import aietf from "../assets/images/png/ai-etf.png";
 import aistocks from "../assets/images/png/ai-stocks.png";
 import aeiral from "../assets/images/png/aerial.png";
 import zenpeak from "../assets/images/png/zen-peak.png";
+import pixelperfact from "../assets/images/png/pixcle-perfact.png";
+import dashboard from "../assets/images/png/toscatours-dashboard.png";
 
 const Header = () => {
   const [opentab, setOpentab] = useState(1);
@@ -962,6 +964,70 @@ const Header = () => {
                     target="blank"
                   >
                     https://zen-peak.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">5.</p>
+                  <img
+                    src={pixelperfact}
+                    alt="pixelperfact"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href=""
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    ></a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href=""
+                    target="blank"
+                  ></a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">6.</p>
+                  <img
+                    src={dashboard}
+                    alt="dashboard"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/sachin-niyana/toscatours"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/sachin-niyana/toscatours
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://toscatours-rho.vercel.app/"
+                    target="blank"
+                  >
+                    https://toscatours-rho.vercel.app/
                   </a>
                 </div>
               </div>
