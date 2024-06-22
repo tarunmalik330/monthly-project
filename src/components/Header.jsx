@@ -25,6 +25,11 @@ import aeiral from "../assets/images/png/aerial.png";
 import zenpeak from "../assets/images/png/zen-peak.png";
 import pixelperfact from "../assets/images/png/pixcle-perfact.png";
 import dashboard from "../assets/images/png/toscatours-dashboard.png";
+import celltracker from "../assets/images/png/celltracker.png";
+import gallieosky from "../assets/images/png/gallieo-sky.png";
+import dexodus from "../assets/images/png/dexodus.png";
+import tilakstone from "../assets/images/png/tilak-stone.png";
+import foxvision from "../assets/images/png/foxvision.png";
 
 const Header = () => {
   const [opentab, setOpentab] = useState(1);
@@ -104,6 +109,20 @@ const Header = () => {
                 } text-[30px] font-normal text-black`}
               >
                 May
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+                onClick={(e) => {
+                  e.preventDefault();
+                  setOpentab(6);
+                }}
+                className={`${
+                  opentab === 6 ? "text-lime-600" : ""
+                } text-[30px] font-normal text-black`}
+              >
+                June
               </a>
             </li>
           </ul>
@@ -1028,6 +1047,178 @@ const Header = () => {
                     target="blank"
                   >
                     https://toscatours-rho.vercel.app/
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className={opentab === 6 ? "block" : "hidden"}>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">1.</p>
+                  <img
+                    src={celltracker}
+                    alt="celltracker"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/celltracker"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/celltracker
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://celltracker.vercel.app/"
+                    target="blank"
+                  >
+                    https://celltracker.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">2.</p>
+                  <img
+                    src={gallieosky}
+                    alt="gallieosky"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/galileo-sky"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/galileo-sky
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://galileo-sky-gilt.vercel.app/"
+                    target="blank"
+                  >
+                    https://galileo-sky-gilt.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">3.</p>
+                  <img
+                    src={dexodus}
+                    alt="dexodus"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/my-test-dexodus"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/my-test-dexodus
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://my-test-dexodus-kw1ykc780-tarunmalik.vercel.app/"
+                    target="blank"
+                  >
+                    https://my-test-dexodus-kw1ykc780-tarunmalik.vercel.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">4.</p>
+                  <img
+                    src={tilakstone}
+                    alt="tilakstone"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/mayankpcp7/TilakStone"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/mayankpcp7/TilakStone
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://tilak-stone.web.app"
+                    target="blank"
+                  >
+                    https://tilak-stone.web.app
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">5.</p>
+                  <img
+                    src={foxvision}
+                    alt="foxvision"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://fox-vision-476c9.web.app/"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://fox-vision-476c9.web.app/
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://fox-vision-476c9.web.app/"
+                    target="blank"
+                  >
+                    https://fox-vision-476c9.web.app/
                   </a>
                 </div>
               </div>
