@@ -30,6 +30,7 @@ import gallieosky from "../assets/images/png/gallieo-sky.png";
 import dexodus from "../assets/images/png/dexodus.png";
 import tilakstone from "../assets/images/png/tilak-stone.png";
 import foxvision from "../assets/images/png/foxvision.png";
+import icandy from "../assets/images/png/icandy.png";
 
 const Header = () => {
   const [opentab, setOpentab] = useState(1);
@@ -1203,11 +1204,11 @@ const Header = () => {
                       GitHub Link :
                     </p>
                     <a
-                      href="https://fox-vision-476c9.web.app/"
+                      href="https://github.com/mayankpcp7/FoxVision"
                       target="blank"
                       className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
                     >
-                      https://fox-vision-476c9.web.app/
+                      https://github.com/mayankpcp7/FoxVision
                     </a>
                   </div>
                   <p className="text-lime-950 text-3xl font-medium pb-2">
@@ -1219,6 +1220,40 @@ const Header = () => {
                     target="blank"
                   >
                     https://fox-vision-476c9.web.app/
+                  </a>
+                </div>
+              </div>
+              <div className="flex flex-row justify-between items-center pb-[48px]">
+                <div className="w-[35%] flex item-start gap-[40px]">
+                  <p className="text-center text-3xl font-medium">6.</p>
+                  <img
+                    src={icandy}
+                    alt="icandy"
+                    className="w-full rounded-[14px]"
+                  />
+                </div>
+                <div className="w-[55%]">
+                  <div className="pb-4">
+                    <p className="text-lime-950 text-3xl font-medium pb-2">
+                      GitHub Link :
+                    </p>
+                    <a
+                      href="https://github.com/tarunmalik330/icandy"
+                      target="blank"
+                      className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    >
+                      https://github.com/tarunmalik330/icandy
+                    </a>
+                  </div>
+                  <p className="text-lime-950 text-3xl font-medium pb-2">
+                    Live Link:
+                  </p>
+                  <a
+                    className="text-[20px] font-normal text-lime-950 hover:text-lime-600 transition-all ease-linear duration-500"
+                    href="https://icandy-01.netlify.app/"
+                    target="blank"
+                  >
+                    https://icandy-01.netlify.app/
                   </a>
                 </div>
               </div>
